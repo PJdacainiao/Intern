@@ -4,3 +4,6 @@
 * [protobuf JAVA API](https://my.oschina.net/pierrecai/blog/1329878)
 * [官方API](https://developers.google.com/protocol-buffers/docs/reference/overview)
 
+## Gradle
+* [gradle配置](https://blog.csdn.net/achenyuan/article/details/80682288)
+
